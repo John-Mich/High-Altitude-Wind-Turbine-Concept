@@ -1,5 +1,7 @@
 # High-Altitude-Wind-Turbine-Concept
 
+![Turbine](https://github.com/John-Mich/High-Altitude-Wind-Turbine-Concept/blob/main/Turbine.gif)
+
 Abstract:
 
 High altitude wind energy has the potential to provide a reliable and cost-effective source of renewable electricity. However, current high altitude wind energy systems have limitations, including high costs and complex mechanisms for transferring energy to the ground. In this paper, we present a new high altitude wind turbine concept that combines the advantages of traditional wind turbines and high altitude wind energy systems, while addressing many of their limitations. Our system utilizes a helium-filled balloon to lift a spinning turbine into the air, where it can capture the wind's energy more efficiently than traditional wind turbines. The energy is transferred to the ground via ropes that move at high speeds in a circular motion, which simplifies the process of generating electricity compared to kite systems. The system is relatively lightweight, with a low cost of construction, and has the potential to provide a reliable source of renewable electricity at high altitudes.
@@ -51,8 +53,6 @@ References:
 - [1] T. Archer and C. Meneveau, "Wind Turbine Design and Application," Annual Review of Fluid Mechanics, vol. 41, pp. 117-136, 2009.
 - [2] L. K. Sørensen, "High Altitude Wind Energy," Renewable and Sustainable Energy Reviews, vol. 16, pp. 3382-3394, 2012.
 - [3] M. A. Eltahir, A. E. Hassan, and E. H. Abunada, "A Review of High Altitude Wind Energy Conversion Systems," Renewable and Sustainable Energy Reviews, vol. 78, pp. 189-198, 2017.
-
-![Turbine](https://github.com/John-Mich/High-Altitude-Wind-Turbine-Concept/blob/main/Turbine.gif)
 
 This invention was released under the permissive Cern open hardware licence:
 
