@@ -60,4 +60,4 @@ CERN-OHL-P
 
 https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
 
-Copyright (C) 2022 Γιάννης Μιχαηλίδης
+Copyright (C) 2023 Γιάννης Μιχαηλίδης
