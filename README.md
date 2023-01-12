@@ -1,7 +1,6 @@
 # High-Altitude-Wind-Turbine-Concept
 
 ![Turbine1](https://github.com/John-Mich/High-Altitude-Wind-Turbine-Concept/blob/main/Turbine1.gif)
-![Turbine2](https://github.com/John-Mich/High-Altitude-Wind-Turbine-Concept/blob/main/Turbine2.gif)
 
 Abstract:
 
@@ -29,6 +28,8 @@ The ground-based power generation system consists of two wheels that are driven 
 
 To ensure that the structure is able to be directed to the wind direction without the ropes being bent, the generator and the wheels which take the energy through the ropes are based on a horizontally rotating basement. This horizontal rotation allows the turbine to always face the wind direction and transfer the energy more efficiently.
 
+![Turbine2](https://github.com/John-Mich/High-Altitude-Wind-Turbine-Concept/blob/main/Turbine2.gif)
+
 Conclusion:
 
 There are a number of advantages to our high altitude wind turbine concept that make it an attractive alternative to traditional wind turbines and other high altitude wind energy systems, such as kite systems. 
@@ -53,12 +54,11 @@ Finally, there may be technical challenges associated with the design and operat
 Overall, our high altitude wind turbine concept has the potential to provide a cost-effective and reliable source of renewable electricity at high altitudes. It combines the advantages of traditional wind turbines and high altitude wind energy systems, while addressing many of their limitations. As such, it could be a promising alternative for the generation of renewable electricity in the future.
 
 References:
-
-- [1] T. Archer and C. Meneveau, "Wind Turbine Design and Application," Annual Review of Fluid Mechanics, vol. 41, pp. 117-136, 2009.
-- [2] L. K. Sørensen, "High Altitude Wind Energy," Renewable and Sustainable Energy Reviews, vol. 16, pp. 3382-3394, 2012.
-- [3] M. A. Eltahir, A. E. Hassan, and E. H. Abunada, "A Review of High Altitude Wind Energy Conversion Systems," Renewable and Sustainable Energy Reviews, vol. 78, pp. 189-198, 2017.
-- [4] De Decker, Kris, "The Mechanical Transmission of Power: 3. Wire Ropes." Low-tech Magazine, 18 March 2013, solar.lowtechmagazine.com/2013/03/the-mechanical-transmission-of-power-3-wire-ropes.html.
-- [5] X. Zhang, Y. Liu, and J. Wang, "Nanofiber-reinforced polyethylene rope: preparation, properties and potential application," Composites Science and Technology, vol. 68, pp. 991-998, 2008.
+- [1] Manwell, J. F., McGowan, J. G., & Rogers, A. L. (2010). Wind energy explained: theory, design and application. John Wiley & Sons.
+- [2] Canale, M., Fagiano, L., & Milanese, M. (2009). High altitude wind energy generation using controlled power kites. IEEE Transactions on Control Systems Technology, 18(2), 279-293.
+- [3] Tummala, A. S. (2017, March). A Review and Aspects of High Altitude Wind Power Generation.
+- [4] De Decker, K. (2013, March 18). The Mechanical Transmission of Power: 3. Wire Ropes. Low-tech Magazine. Retrieved from https://solar.lowtechmagazine.com/2013/03/the-mechanical-transmission-of-power-3-wire-ropes.html.
+- [5] Lu, T., Wang, X.-X., Zhu, J.-W., Xu, Y., & Long, Y.-Z. (2018). Conductive twisted polyimide composite nanofiber ropes with improved tensile strength, thermal stability and high flexibility. Journal of Physics D: Applied Physics, 51(48), 485102.
 
 This invention was released under the permissive Cern open hardware licence:
 
