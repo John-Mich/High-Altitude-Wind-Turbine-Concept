@@ -60,10 +60,12 @@ References:
 - [4] De Decker, K. (2013, March 18). The Mechanical Transmission of Power: 3. Wire Ropes. Low-tech Magazine. Retrieved from https://solar.lowtechmagazine.com/2013/03/the-mechanical-transmission-of-power-3-wire-ropes.html.
 - [5] Lu, T., Wang, X.-X., Zhu, J.-W., Xu, Y., & Long, Y.-Z. (2018). Conductive twisted polyimide composite nanofiber ropes with improved tensile strength, thermal stability and high flexibility. Journal of Physics D: Applied Physics, 51(48), 485102.
 
-This invention was released under the permissive Cern open hardware licence:
-
-CERN-OHL-P
-
+The models and descriptions of this invention was released under the permissive Cern open hardware licence:
+(CERN-OHL-P)
 https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+Copyright (C) 2023 Γιάννης Μιχαηλίδης
 
+The explanation texts, images and animations are released under the creative commons attribution - share alike license:
+(CC BY-SA 4.0) 
+https://creativecommons.org/licenses/by-sa/4.0/ 
 Copyright (C) 2023 Γιάννης Μιχαηλίδης
